@@ -1,0 +1,13 @@
+.navbar{
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #40005d;
+    border: 5px solid black;
+    padding: 1rem auto;
+    border-radius: 12px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    height:100px;
+}
